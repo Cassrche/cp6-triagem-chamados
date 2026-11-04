@@ -2,7 +2,9 @@
 
 ## integrantes
 
+- Artur Figueiredo Vianna - RM 571866
 - Cassiano Rocha Assumpção - RM 568632
+- Pedro Perraro John - RM 573068
 
 ## solução
 
